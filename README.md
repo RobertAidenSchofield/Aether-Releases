@@ -6,7 +6,7 @@ Downloads for **Aether**, the IPTV and media server player. The source code is p
 
 **[Download the latest APK](https://github.com/RobertAidenSchofield/Aether-Releases/releases/latest/download/Aether-Android.apk)** · [all releases](https://github.com/RobertAidenSchofield/Aether-Releases/releases)
 
-- Android 9 or later, arm64 (Android TV boxes, Fire TV, Nvidia Shield, Chromecast with Google TV, most phones).
+- Android 9 or later on ARM (Android TV boxes, Fire TV, onn, Nvidia Shield, Chromecast with Google TV, most phones).
 - On a TV, open the link with a browser or the **Downloader** app, then allow installing from that app when asked.
 - Each release lists the APK's SHA-256, so you can check the download.
 
